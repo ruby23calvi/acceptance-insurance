@@ -1,0 +1,40 @@
+.expense-list {
+
+padding:20px;
+
+border-radius:10px;
+
+background:#f7f9fc;
+
+}
+
+
+.expense-item {
+
+background:white;
+
+padding:15px;
+
+margin-bottom:12px;
+
+border-left:5px solid #1f4e79;
+
+border-radius:6px;
+
+}
+
+
+.expense-item h3 {
+
+margin:0;
+
+}
+
+
+.expense-item p {
+
+margin-top:8px;
+
+font-weight:bold;
+
+}
