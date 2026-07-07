@@ -1,0 +1,9 @@
+{
+  "short_name": "Acceptance Insurance",
+  "name": "Acceptance Insurance Management Application",
+  "icons": [],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#1f4e79",
+  "background_color": "#ffffff"
+}
