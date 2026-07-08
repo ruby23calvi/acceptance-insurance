@@ -43,11 +43,11 @@ Acceptance Insurance combines usability, organization, and modern development pr
 
 # Author
 
-**Name:** Amber Gold
+**Name:** ruby calvi
 
-**Email:** amber365gold@outlook.com
+**Email:** ruby23calvi@outlook.com
 
-**Website:** acceptance insurance
+**Website:** [acceptance insurance(https://www.acceptanceinsurance.com.co)
 
 ## Author Bio
 
